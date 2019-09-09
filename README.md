@@ -107,15 +107,17 @@ Einstein, and Others</a></b></li>
  
    <li><b><a target="_blank" href="img/dic(65).pdf" style="text-decoration:none;">The First Three Minutes: A modem view of the origin of
 the universe </a></b></li> 
- 
-   <li><b><a target="_blank" href="img/dic(67).pdf" style="text-decoration:none;">International Dictionary of Marketing</a></b></li>                              
 
-  <li><b><a target="_blank" href="img/dic(68).pdf" style="text-decoration:none;">Dictionary of Psychology and Allied Sciences</a></b></li> 
+   <li><b><a target="_blank" href="img/dic(66).pdf" style="text-decoration:none;">'No Success like Failure ...': Einstein's Quest for General Relativity, 1907-1920 </a></b></li> 
+ 
+   <li><b><a target="_blank" href="img/dic(67).pdf" style="text-decoration:none;">What Einstein Told His Barber: More Scientific Answers to Everyday Questions</a></b></li>                              
+
+  <li><b><a target="_blank" href="img/dic(68).pdf" style="text-decoration:none;">Pursuit of Genius: Flexner, Einstein, and the Early Faculty at the Institute for Advanced Study</a></b></li> 
  
   
-   <li><b><a target="_blank" href="img/dic(69).pdf" style="text-decoration:none;">A Dictionary of Diplomacy</a></b></li>                              
+   <li><b><a target="_blank" href="img/dic(69).pdf" style="text-decoration:none;">The Cosmic Connection: An Extraterrestrial Perspective</a></b></li>                              
 
-  <li><b><a target="_blank" href="img/dic(70).pdf" style="text-decoration:none;">Drug dictionary for dentistry </a></b></li> 
+  <li><b><a target="_blank" href="img/dic(70).pdf" style="text-decoration:none;">The God Delusion </a></b></li> 
   
  
  <li><b><a target="_blank" href="img/dic(71).pdf" style="text-decoration:none;">Biology Dictionary</a></b></li>
