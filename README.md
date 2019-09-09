@@ -88,24 +88,25 @@ Einstein, and Others</a></b></li>
 
 <li><b><a target="_blank" href="img/dic(55).pdf" style="text-decoration:none;">Before the Dawn: Recovering the Lost History of Our Ancestors</a></b></li>
  
-  <li><b><a target="_blank" href="img/dic(56).pdf" style="text-decoration:none;">The Essential Law Ditionary </a></b></li>                              
+  <li><b><a target="_blank" href="img/dic(56).pdf" style="text-decoration:none;">Energy, the Subtle Concept </a></b></li>                              
 
-  <li><b><a target="_blank" href="img/dic(57).pdf" style="text-decoration:none;">Dictionary of Pharmaceutical Medicine </a></b></li>
+  <li><b><a target="_blank" href="img/dic(57).pdf" style="text-decoration:none;">The Varieties of Scientific Experience </a></b></li>
  
-   <li><b><a target="_blank" href="img/dic(58).pdf" style="text-decoration:none;">The Oxford Dictionary of Medical Quotations </a></b></li>
+   <li><b><a target="_blank" href="img/dic(58).pdf" style="text-decoration:none;">Cosmology </a></b></li>
+    <li><b><a target="_blank" href="img/dic(59).pdf" style="text-decoration:none;">The Believing Brain: From Ghosts and Gods to Politics and Conspiracies - How We Construct Beliefs and Reinforce Them as Truths </a></b></li>
  
+  <li><b><a target="_blank" href="img/dic(60).pdf" style="text-decoration:none;">Quantum: Einstein, Bohr, And The Great Debate About The Nature Of Reality </a></b></li>
  
-  <li><b><a target="_blank" href="img/dic(60).pdf" style="text-decoration:none;">Accounting Dictionary </a></b></li>
+   <li><b><a target="_blank" href="img/dic(61).pdf" style="text-decoration:none;">Reinventing Gravity: A Physicist Goes Beyond Einstein </a></b></li>
  
-   <li><b><a target="_blank" href="img/dic(61).pdf" style="text-decoration:none;">Dictionary of Transport and Logistics</a></b></li>
+   <li><b><a target="_blank" href="img/dic(62).pdf" style="text-decoration:none;">Surely You're Joking, Mr. Feynman! </a></b></li>
  
-   <li><b><a target="_blank" href="img/dic(62).pdf" style="text-decoration:none;">Law Dictionary </a></b></li>
- 
-   <li><b><a target="_blank" href="img/dic(63).pdf" style="text-decoration:none;">The Dictionary of Dreams: Ten Thousand Dreams Interpreted</a></b></li>                              
+   <li><b><a target="_blank" href="img/dic(63).pdf" style="text-decoration:none;">The Universe of General Relativity</a></b></li>                              
 
-  <li><b><a target="_blank" href="img/dic(64).pdf" style="text-decoration:none;">Environmental Engineering Dictionary and Directory</a></b></li>
+  <li><b><a target="_blank" href="img/dic(64).pdf" style="text-decoration:none;">Cracking the Einstein Code: Relativity and the Birth of Black Hole Physics</a></b></li>
  
-   <li><b><a target="_blank" href="img/dic(65).pdf" style="text-decoration:none;">A Dictionary of Architecture and Landscape Architecture </a></b></li> 
+   <li><b><a target="_blank" href="img/dic(65).pdf" style="text-decoration:none;">The First Three Minutes: A modem view of the origin of
+the universe </a></b></li> 
  
    <li><b><a target="_blank" href="img/dic(67).pdf" style="text-decoration:none;">International Dictionary of Marketing</a></b></li>                              
 
