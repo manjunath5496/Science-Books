@@ -120,24 +120,24 @@ the universe </a></b></li>
   <li><b><a target="_blank" href="img/dic(70).pdf" style="text-decoration:none;">The God Delusion </a></b></li> 
   
  
- <li><b><a target="_blank" href="img/dic(71).pdf" style="text-decoration:none;">Biology Dictionary</a></b></li>
+ <li><b><a target="_blank" href="img/dic(71).pdf" style="text-decoration:none;">Introduction to General Relativity, Black Holes, and Cosmology</a></b></li>
  
- <li><b><a target="_blank" href="img/dic(72).pdf" style="text-decoration:none;">Englishâˆ’french Dictionary</a></b></li> 
+ <li><b><a target="_blank" href="img/dic(72).pdf" style="text-decoration:none;">Einstein and Poincaré: The Physical Vacuum</a></b></li> 
  
  
- <li><b><a target="_blank" href="img/dic(73).pdf" style="text-decoration:none;">Dictionary of Flowers and Plants for Gardening </a></b></li>
-  <li><b><a target="_blank" href="img/dic(74).pdf" style="text-decoration:none;">Cambridge Advanced Learner's Dictionary</a></b></li>
-                           
-<li><b><a target="_blank" href="img/dic(76).rar" style="text-decoration:none;">Dictionary of Architecture and Construction</a></b></li>
+ <li><b><a target="_blank" href="img/dic(73).pdf" style="text-decoration:none;">Lectures on Quantum Mechanics</a></b></li>
+  <li><b><a target="_blank" href="img/dic(74).pdf" style="text-decoration:none;">Proof: The Science of Booze</a></b></li>
+    <li><b><a target="_blank" href="img/dic(75).pdf" style="text-decoration:none;">What the Dog Saw and Other Adventures</a></b></li>                        
+<li><b><a target="_blank" href="img/dic(76).pdf" style="text-decoration:none;">The Greatest Show on Earth: The Evidence for Evolution</a></b></li>
 
- <li><b><a target="_blank" href="img/dic(1).pdf" style="text-decoration:none;">NTC's Dictionary of American Slang and Colloquial Expressions</a></b></li> 
+ <li><b><a target="_blank" href="img/dic(77).pdf" style="text-decoration:none;">13 Things That Don't Make Sense: The Most Baffling Scientific Mysteries of Our Time</a></b></li> 
  
  
- <li><b><a target="_blank" href="img/dic(7).pdf" style="text-decoration:none;">Metaphorically Speaking: A Dictionary of 3,800 Picturesque Idiomatic Expressions </a></b></li>
-  <li><b><a target="_blank" href="img/dic(19).pdf" style="text-decoration:none;">The Oxford Dictionary of Allusions</a></b></li>
+ <li><b><a target="_blank" href="img/dic(78).pdf" style="text-decoration:none;">Packing for Mars: The Curious Science of Life in the Void </a></b></li>
+  <li><b><a target="_blank" href="img/dic(79).pdf" style="text-decoration:none;">The Elegant Universe</a></b></li>
 
 
- <li><b><a target="_blank" href="img/dic(22).pdf" style="text-decoration:none;">The American Heritage Dictionary of Idioms</a></b></li> 
+ <li><b><a target="_blank" href="img/dic(80).pdf" style="text-decoration:none;">Hiding in the Mirror: The Quest for Alternate Realities, from Plato to String Theory</a></b></li> 
  
  
  <li><b><a target="_blank" href="img/dic(23).pdf" style="text-decoration:none;">A Dictionary of Earth Sciences </a></b></li>
