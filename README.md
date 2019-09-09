@@ -99,7 +99,7 @@ Einstein, and Others</a></b></li>
  
    <li><b><a target="_blank" href="img/dic(61).pdf" style="text-decoration:none;">Reinventing Gravity: A Physicist Goes Beyond Einstein </a></b></li>
  
-   <li><b><a target="_blank" href="img/dic(62).pdf" style="text-decoration:none;">Surely You're Joking, Mr. Feynman! </a></b></li>
+   <li><b><a target="_blank" href="img/dic(62).PDF" style="text-decoration:none;">Surely You're Joking, Mr. Feynman! </a></b></li>
  
    <li><b><a target="_blank" href="img/dic(63).pdf" style="text-decoration:none;">The Universe of General Relativity</a></b></li>                              
 
