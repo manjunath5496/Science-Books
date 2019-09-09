@@ -220,6 +220,21 @@ the universe </a></b></li>
    
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(125).pdf" style="text-decoration:none;">Behavioral Science </a></b></li>   
    
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(126).pdf" style="text-decoration:none;">Dear Professor Einstein: Albert Einstein's Letters to and from Children </a></b></li>      
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(126).pdf" style="text-decoration:none;">Dear Professor Einstein: Albert Einstein's Letters to and from Children </a></b></li> 
+   
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(27).pdf" style="text-decoration:none;">The Ultimate Quotable Einstein</a></b></li>  
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(35).pdf" style="text-decoration:none;">Stephen Hawking: A Life in Science</a></b></li>   
+   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(46).pdf" style="text-decoration:none;">Brief Answers to the Big Questions </a></b></li>   
+   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(52).pdf" style="text-decoration:none;">Einstein's Apple: Homogeneous Einstein Fields </a></b></li>    
+   
+   
+   
+   
+   
+   
+   
    
  </ul>
