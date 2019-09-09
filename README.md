@@ -2,35 +2,40 @@
 
                              
 
- <li><b><a target="_blank" href="img/dic(2).pdf" style="text-decoration:none;">Longman Dictionary of Common Errors</a></b></li>
-<li><b><a target="_blank" href="img/dic(3).pdf" style="text-decoration:none;">Dictionary of Nursing</a></b></li>
- <li><b><a target="_blank" href="img/dic(4).pdf" style="text-decoration:none;">The Cambridge Dictionary of Philosophy</a></b></li>                              
-<li><b><a target="_blank" href="img/dic(5).pdf" style="text-decoration:none;">Dictionary of Mathematics Terms</a></b></li>
-<li><b><a target="_blank" href="img/dic(6).pdf" style="text-decoration:none;">Microsoft Computer Dictionary</a></b></li>
- 
+ <li><b><a target="_blank" href="img/dic(1).pdf" style="text-decoration:none;">Gödel, Escher, Bach: An Eternal Golden Braid</a></b></li>
 
- <li><b><a target="_blank" href="img/dic(8).pdf" style="text-decoration:none;">The Hutchinson Dictionary of Difficult Words</a></b></li>
-   <li><b><a target="_blank" href="img/dic(9).pdf" style="text-decoration:none;">Dictionary of Islamic Architecture</a></b></li>                             
- <li><b><a target="_blank" href="img/dic(10).pdf" style="text-decoration:none;">Dictionary of Computer and Internet Terms </a></b></li>                              
-<li><b><a target="_blank" href="img/dic(11).pdf" style="text-decoration:none;">Dictionary of Erotic Artists</a></b></li>
-<li><b><a target="_blank" href="img/dic(12).pdf" style="text-decoration:none;">Dictionary of Leisure, Travel and Tourism</a></b></li>
-<li><b><a target="_blank" href="img/dic(13).pdf" style="text-decoration:none;">Smith's Bible Dictionary</a></b></li>
+ <li><b><a target="_blank" href="img/dic(2).pdf" style="text-decoration:none;">Electrodynamics: from Ampere to Einstein</a></b></li>
+
+<li><b><a target="_blank" href="img/dic(3).pdf" style="text-decoration:none;">Einstein Manifolds</a></b></li>
+ <li><b><a target="_blank" href="img/dic(4).pdf" style="text-decoration:none;">A Short History of Chemistry</a></b></li>                              
+<li><b><a target="_blank" href="img/dic(5).pdf" style="text-decoration:none;">A Scientist at the Seashore</a></b></li>
+<li><b><a target="_blank" href="img/dic(6).pdf" style="text-decoration:none;">The Birth and Death of the Sun</a></b></li>
+ <li><b><a target="_blank" href="img/dic(7).pdf" style="text-decoration:none;">The large scale structure of space-time</a></b></li>
+
+ <li><b><a target="_blank" href="img/dic(8).pdf" style="text-decoration:none;"> Just Six Numbers: The Deep Forces that Shape the Universe </a></b></li>
+   <li><b><a target="_blank" href="img/dic(9).pdf" style="text-decoration:none;">Life 3.0: Being Human in the Age of Artificial Intelligence</a></b></li>                             
+ <li><b><a target="_blank" href="img/dic(10).pdf" style="text-decoration:none;">Modeling Black Hole Evaporation </a></b></li>                              
+<li><b><a target="_blank" href="img/dic(11).pdf" style="text-decoration:none;">Pliny : Natural history ; with an English translation in ten volumes</a></b></li>
+<li><b><a target="_blank" href="img/dic(12).pdf" style="text-decoration:none;">Unreliable: The Science and Logic of Bill Nye</a></b></li>
+<li><b><a target="_blank" href="img/dic(13).pdf" style="text-decoration:none;">Particle physics</a></b></li>
                               
-<li><b><a target="_blank" href="img/dic(14).pdf" style="text-decoration:none;">Dictionary of Politics and Government</a></b></li>
-<li><b><a target="_blank" href="img/dic(15).pdf" style="text-decoration:none;">A Dictionary of Archaeology</a></b></li>
+<li><b><a target="_blank" href="img/dic(14).pdf" style="text-decoration:none;">The Grand Design</a></b></li>
+<li><b><a target="_blank" href="img/dic(15).pdf" style="text-decoration:none;">The Roots of Humankind</a></b></li>
 
 
 
-<li><b><a target="_blank" href="img/dic(16).pdf" style="text-decoration:none;">Linux Dictionary</a></b></li>
+<li><b><a target="_blank" href="img/dic(16).pdf" style="text-decoration:none;">Ideas and Opinions</a></b></li>
 
-  <li><b><a target="_blank" href="img/dic(17).pdf" style="text-decoration:none;">Indian Medicinal Plants: An Illustrated Dictionary</a></b></li>   
+  <li><b><a target="_blank" href="img/dic(17).pdf" style="text-decoration:none;">Intelligent Life in the Universe</a></b></li>   
   
-<li><b><a target="_blank" href="img/dic(18).pdf" style="text-decoration:none;">The Cambridge Dictionary of Psychology</a></b></li> 
+<li><b><a target="_blank" href="img/dic(18).pdf" style="text-decoration:none;">The Collapsing Universe: The Story of the Black Holes</a></b></li> 
+<li><b><a target="_blank" href="img/dic(19).pdf" style="text-decoration:none;">How Physics Confronts Reality: Einstein Was Correct, But Bohr Won the Game</a></b></li> 
 
+<li><b><a target="_blank" href="img/dic(20).pdf" style="text-decoration:none;">Stuff Matters: Exploring the Marvelous Materials That Shape Our Man-Made World </a></b></li>
 
-<li><b><a target="_blank" href="img/dic(20).pdf" style="text-decoration:none;">The Dictionary of Human Geography </a></b></li>
-
-<li><b><a target="_blank" href="img/dic(21).pdf" style="text-decoration:none;">The Oxford Dictionary of Quotations</a></b></li>
+<li><b><a target="_blank" href="img/dic(21).pdf" style="text-decoration:none;">From Quarks to Black Holes: Interviewing the Universe</a></b></li>
+<li><b><a target="_blank" href="img/dic(22).pdf" style="text-decoration:none;">Asimov On Numbers</a></b></li> 
+ <li><b><a target="_blank" href="img/dic(23).pdf" style="text-decoration:none;">The Pleasure of Finding Things Out</a></b></li> 
  
 
    <li><b><a target="_blank" href="img/dic(24).pdf" style="text-decoration:none;">Dictionary of Food Science and Nutrition</a></b></li>
