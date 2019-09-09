@@ -38,21 +38,20 @@
  <li><b><a target="_blank" href="img/dic(23).pdf" style="text-decoration:none;">The Pleasure of Finding Things Out</a></b></li> 
  
 
-   <li><b><a target="_blank" href="img/dic(24).pdf" style="text-decoration:none;">Dictionary of Food Science and Nutrition</a></b></li>
+   <li><b><a target="_blank" href="img/dic(24).pdf" style="text-decoration:none;">Planets for Man</a></b></li>
  
-   <li><b><a target="_blank" href="img/dic(25).pdf" style="text-decoration:none;">The Illustrated Dictionary of Electronics</a></b></li>                              
+   <li><b><a target="_blank" href="img/dic(25).pdf" style="text-decoration:none;">The Mysterious Universe</a></b></li>                              
+ <li><b><a target="_blank" href="img/dic(26).pdf" style="text-decoration:none;">The Book of Eggs: A Life-Size Guide to the Eggs of Six Hundred of the World's Bird Species</a></b></li>
+ 
+   
+ 
+   <li><b><a target="_blank" href="img/dic(28).pdf" style="text-decoration:none;">Einstein, Physics and Reality </a></b></li>
+ 
+   <li><b><a target="_blank" href="img/dic(29).pdf" style="text-decoration:none;">Sapiens: A Brief History of Humankind </a></b></li>                              
 
-  <li><b><a target="_blank" href="img/dic(26).pdf" style="text-decoration:none;">Dream Dictionary For Dummies</a></b></li>
+  <li><b><a target="_blank" href="img/dic(30).pdf" style="text-decoration:none;">Origins: Fourteen Billion Years of Cosmic Evolution</a></b></li>
  
-   <li><b><a target="_blank" href="img/dic(27).pdf" style="text-decoration:none;">A Dictionary of Chinese Symbols</a></b></li>
- 
-   <li><b><a target="_blank" href="img/dic(28).pdf" style="text-decoration:none;">Dictionary of geophysics, astrophysics, and astronomy  </a></b></li>
- 
-   <li><b><a target="_blank" href="img/dic(29).pdf" style="text-decoration:none;">The Nonverbal Dictionary of gestures, signs and body language cues </a></b></li>                              
-
-  <li><b><a target="_blank" href="img/dic(30).pdf" style="text-decoration:none;">Allen's Dictionary of English Phrases</a></b></li>
- 
-   <li><b><a target="_blank" href="img/dic(31).pdf" style="text-decoration:none;">Dictionary of Oil, Gas, and Petrochemical Processing</a></b></li> 
+   <li><b><a target="_blank" href="img/dic(31).pdf" style="text-decoration:none;">Einstein and the Changing Worldviews of Physics</a></b></li> 
  
 
    <li><b><a target="_blank" href="img/dic(33).pdf" style="text-decoration:none;">The Cambridge Aerospace Dictionary</a></b></li>                              
