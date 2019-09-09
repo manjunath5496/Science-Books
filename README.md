@@ -66,19 +66,20 @@ of the Universe</a></b></li>
  <li><b><a target="_blank" href="img/dic(38).pdf" style="text-decoration:none;">The Hidden Reality</a></b></li>
 <li><b><a target="_blank" href="img/dic(39).pdf" style="text-decoration:none;">Physics of the Impossible: A Scientific Exploration into the World of Phasers, Force Fields, Teleportation, and Time Travel</a></b></li>
  <li><b><a target="_blank" href="img/dic(40).pdf" style="text-decoration:none;">The Restless Universe: Understanding X-ray Astronomy in the Age of Chandra and Newton</a></b></li>                              
-<li><b><a target="_blank" href="img/dic(41).pdf" style="text-decoration:none;">Concise Dictionary of Proverbs</a></b></li>
-<li><b><a target="_blank" href="img/dic(42).pdf" style="text-decoration:none;">English-Spanish Dictionary </a></b></li>
+<li><b><a target="_blank" href="img/dic(41).pdf" style="text-decoration:none;">The Blind Watchmaker: Why the Evidence of Evolution Reveals a Universe without Design</a></b></li>
+<li><b><a target="_blank" href="img/dic(42).pdf" style="text-decoration:none;">The Demon-Haunted World: Science as a Candle in the Dark </a></b></li>
  
-  <li><b><a target="_blank" href="img/dic(43).pdf" style="text-decoration:none;">Polymer Science Dictionary </a></b></li>
- <li><b><a target="_blank" href="img/dic(44).pdf" style="text-decoration:none;">The Oxford Dictionary of English Grammar</a></b></li>
-   <li><b><a target="_blank" href="img/dic(45).pdf" style="text-decoration:none;">A Dictionary of Epidemiology</a></b></li>                             
- <li><b><a target="_blank" href="img/dic(46).pdf" style="text-decoration:none;">Medical Dictionary</a></b></li>                              
-<li><b><a target="_blank" href="img/dic(47).pdf" style="text-decoration:none;">A concise dictionary of the words in the Hebrew bible</a></b></li>
-<li><b><a target="_blank" href="img/dic(48).pdf" style="text-decoration:none;">A Dictionary of Literary Symbols</a></b></li>
+  <li><b><a target="_blank" href="img/dic(43).pdf" style="text-decoration:none;">The Ray Kurzweil Reader : A collection of essays</a></b></li>
+ <li><b><a target="_blank" href="img/dic(44).pdf" style="text-decoration:none;">The Information: A History, a Theory, a Flood</a></b></li>
+   <li><b><a target="_blank" href="img/dic(45).pdf" style="text-decoration:none;">The Possibilities Mind: Conversations With God,
+Einstein, and Others</a></b></li>                             
+                             
+<li><b><a target="_blank" href="img/dic(47).pdf" style="text-decoration:none;">The Accidental Universe</a></b></li>
+<li><b><a target="_blank" href="img/dic(48).pdf" style="text-decoration:none;">The Collected Papers of Albert Einstein</a></b></li>
 
-<li><b><a target="_blank" href="img/dic(49).pdf" style="text-decoration:none;">Historical Dictionary of Architecture</a></b></li>
+<li><b><a target="_blank" href="img/dic(49).pdf" style="text-decoration:none;">Outliers: The Story of Success </a></b></li>
                               
-<li><b><a target="_blank" href="img/dic(50).pdf" style="text-decoration:none;">A Dictionary of Philosophy of Religion</a></b></li>
+<li><b><a target="_blank" href="img/dic(50).pdf" style="text-decoration:none;">Conversations on the Plurality of Worlds</a></b></li>
 <li><b><a target="_blank" href="img/dic(51).pdf" style="text-decoration:none;">Dictionary of Military and Associated Terms</a></b></li>
 
   <li><b><a target="_blank" href="img/dic(52).pdf" style="text-decoration:none;">A Dictionary of Human Rights</a></b></li>                              
