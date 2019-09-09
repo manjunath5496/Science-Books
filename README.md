@@ -230,7 +230,9 @@ the universe </a></b></li>
    
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(52).pdf" style="text-decoration:none;">Einstein's Apple: Homogeneous Einstein Fields </a></b></li>    
    
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(106).pdf" style="text-decoration:none;">God and Stephen Hawking: Whose Design Is It Anyway? </a></b></li>   
    
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(114).pdf" style="text-decoration:none;">The Illustrated On The Shoulders of Giants </a></b></li>   
    
    
    
