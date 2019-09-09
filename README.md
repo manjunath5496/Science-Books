@@ -140,21 +140,21 @@ the universe </a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(80).pdf" style="text-decoration:none;">Hiding in the Mirror: The Quest for Alternate Realities, from Plato to String Theory</a></b></li> 
  
  
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(23).pdf" style="text-decoration:none;">A Dictionary of Earth Sciences </a></b></li>
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(32).pdf" style="text-decoration:none;">Essential Japanese Phrasebook and Dictionary: Speak Japanese with Confidence!</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(81).pdf" style="text-decoration:none;">A Brief History of Time </a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(82).pdf" style="text-decoration:none;">What If?: Serious Scientific Answers to Absurd Hypothetical Questions</a></b></li>
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(59).pdf" style="text-decoration:none;">The Official Dictionary of Unofficial English</a></b></li>
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(75).pdf" style="text-decoration:none;">Melloni's Pocket Medical Dictionary</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(83).pdf" style="text-decoration:none;">Moonwalking with Einstein: The Art and Science of Remembering Everything</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(84).pdf" style="text-decoration:none;">Death by Black Hole: And Other Cosmic Quandaries</a></b></li>
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(66).pdf" style="text-decoration:none;">Instant Chinese: How to Express Over 1,000 Different Ideas with Just 100 Key Words and Phrases! (A Mandarin Chinese Phrasebook and Dictionary) </a></b></li>
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(77).pdf" style="text-decoration:none;">A dictionary of Chinese characters</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(85).pdf" style="text-decoration:none;">Lectures on Quantum Gravity and Black Holes </a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(86).pdf" style="text-decoration:none;">Black Holes, Wormholes and Time Machines</a></b></li>
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(78).pdf" style="text-decoration:none;">The Dictionary of Body Language: A Field Guide to Human Behavior</a></b></li>
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(79).pdf" style="text-decoration:none;">The Cambridge Aerospace Dictionary</a></b></li>
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(80).pdf" style="text-decoration:none;">Milady's Skin Care and Cosmetic Ingredients Dictionary</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(87).pdf" style="text-decoration:none;">Secrets of the Old One: Einstein, 1905</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(88).pdf" style="text-decoration:none;">Pale Blue Dot: A Vision of the Human Future in Space</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(89).pdf" style="text-decoration:none;">Einstein and Oppenheimer: The Meaning of Genius</a></b></li>
   
   
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(81).pdf" style="text-decoration:none;">Dictionary of Aviation </a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(90).pdf" style="text-decoration:none;">The Drunkard's Walk: How Randomness Rules Our Lives</a></b></li>
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(82).pdf" style="text-decoration:none;">Historical Dictionary of Ancient Egypt</a></b></li>
 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(83).pdf" style="text-decoration:none;">The Hutchinson Dictionary of Difficult Words</a></b></li>
