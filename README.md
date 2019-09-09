@@ -80,15 +80,13 @@ Einstein, and Others</a></b></li>
 <li><b><a target="_blank" href="img/dic(49).pdf" style="text-decoration:none;">Outliers: The Story of Success </a></b></li>
                               
 <li><b><a target="_blank" href="img/dic(50).pdf" style="text-decoration:none;">Conversations on the Plurality of Worlds</a></b></li>
-<li><b><a target="_blank" href="img/dic(51).pdf" style="text-decoration:none;">Dictionary of Military and Associated Terms</a></b></li>
+<li><b><a target="_blank" href="img/dic(51).pdf" style="text-decoration:none;">My Brief History </a></b></li>
 
-  <li><b><a target="_blank" href="img/dic(52).pdf" style="text-decoration:none;">A Dictionary of Human Rights</a></b></li>                              
-
-<li><b><a target="_blank" href="img/dic(53).pdf" style="text-decoration:none;">Dictionary of Human Resources and Personnel Management </a></b></li>
+<li><b><a target="_blank" href="img/dic(53).pdf" style="text-decoration:none;">The Once and Future Cosmos: Scientific American Special Edition </a></b></li>
  
-<li><b><a target="_blank" href="img/dic(54).pdf" style="text-decoration:none;">A Dictionary of Philosophy </a></b></li>
+<li><b><a target="_blank" href="img/dic(54).pdf" style="text-decoration:none;">Einstein and the Ether </a></b></li>
 
-<li><b><a target="_blank" href="img/dic(55).pdf" style="text-decoration:none;">The Facts on File Dictionary of Earth Science</a></b></li>
+<li><b><a target="_blank" href="img/dic(55).pdf" style="text-decoration:none;">Before the Dawn: Recovering the Lost History of Our Ancestors</a></b></li>
  
   <li><b><a target="_blank" href="img/dic(56).pdf" style="text-decoration:none;">The Essential Law Ditionary </a></b></li>                              
 
