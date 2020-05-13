@@ -1,3 +1,92 @@
+<table class="vertical-navbox nowraplinks plainlist">
+<tbody>
+<tr>
+<th class="navbox-title"><a class="mw-selflink selflink">Science</a></th>
+</tr>
+<tr>
+<td>
+<div id="NavFrame1" class="NavFrame collapsed">
+<div class="NavHead">
+<div class="navbox-abovebelow">Essence</div>
+</div>
+<div class="NavContent">
+<div class="hlist">
+<ul>
+<li><a title="History of science" href="https://en.wikipedia.org/wiki/History_of_science">History</a></li>
+<li><a title="Scientific literature" href="https://en.wikipedia.org/wiki/Scientific_literature">Literature</a></li>
+<li><a title="Scientific method" href="https://en.wikipedia.org/wiki/Scientific_method">Method</a></li>
+<li><a title="Philosophy of science" href="https://en.wikipedia.org/wiki/Philosophy_of_science">Philosophy</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div id="NavFrame2" class="NavFrame collapsed">
+<div class="NavHead">
+<div class="navbox-abovebelow"><a title="Branches of science" href="https://en.wikipedia.org/wiki/Branches_of_science">Branches</a></div>
+</div>
+<div class="NavContent">
+<div class="hlist">
+<ul>
+<li><a title="Formal science" href="https://en.wikipedia.org/wiki/Formal_science">Formal</a></li>
+<li><a title="Natural science" href="https://en.wikipedia.org/wiki/Natural_science">Natural</a>&nbsp;
+<ul>
+<li><a title="Outline of physical science" href="https://en.wikipedia.org/wiki/Outline_of_physical_science">Physical</a></li>
+<li><a title="List of life sciences" href="https://en.wikipedia.org/wiki/List_of_life_sciences">Life</a></li>
+</ul>
+</li>
+<li><a title="Social science" href="https://en.wikipedia.org/wiki/Social_science">Social</a></li>
+<li><a title="Interdisciplinarity" href="https://en.wikipedia.org/wiki/Interdisciplinarity">Interdisciplinary</a></li>
+<li><a title="Applied science" href="https://en.wikipedia.org/wiki/Applied_science">Applied</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div id="NavFrame3" class="NavFrame collapsed">
+<div class="NavHead">
+<div class="navbox-abovebelow">
+<div class="hlist hlist-separated">
+<ul>
+<li>Society</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="NavContent">
+<div class="hlist">
+<ul>
+<li><a title="Science education" href="https://en.wikipedia.org/wiki/Science_education">Education</a></li>
+<li><a title="Funding of science" href="https://en.wikipedia.org/wiki/Funding_of_science">Funding</a></li>
+<li><a title="Pseudoscience" href="https://en.wikipedia.org/wiki/Pseudoscience">Pseudoscience</a></li>
+<li><a title="Science policy" href="https://en.wikipedia.org/wiki/Science_policy">Policy</a></li>
+<li><a title="Sociology of scientific knowledge" href="https://en.wikipedia.org/wiki/Sociology_of_scientific_knowledge">Sociology</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="hlist">
+<ul>
+<li><a title="Outline of science" href="https://en.wikipedia.org/wiki/Outline_of_science">Outline</a></li>
+<li><a title="Portal:Science" href="https://en.wikipedia.org/wiki/Portal:Science">Portal</a></li>
+<li><a title="Category:Science" href="https://en.wikipedia.org/wiki/Category:Science">Category</a></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
 <p><strong>Science</strong>&nbsp;(from the&nbsp;<a title="Latin" href="https://en.wikipedia.org/wiki/Latin">Latin</a>&nbsp;word&nbsp;<em>scientia</em>, meaning "knowledge")&nbsp;is a systematic enterprise that builds and organizes&nbsp;<a title="Knowledge" href="https://en.wikipedia.org/wiki/Knowledge">knowledge</a>&nbsp;in the form of&nbsp;<a title="Testability" href="https://en.wikipedia.org/wiki/Testability">testable</a>&nbsp;<a title="Explanation" href="https://en.wikipedia.org/wiki/Explanation">explanations</a>&nbsp;and&nbsp;<a class="mw-redirect" title="Predictions" href="https://en.wikipedia.org/wiki/Predictions">predictions</a>&nbsp;about the&nbsp;<a title="Universe" href="https://en.wikipedia.org/wiki/Universe">universe</a>.</p>
 <p>The earliest roots of science can be traced to&nbsp;<a title="Ancient Egypt" href="https://en.wikipedia.org/wiki/Ancient_Egypt">Ancient Egypt</a>&nbsp;and&nbsp;<a title="Mesopotamia" href="https://en.wikipedia.org/wiki/Mesopotamia">Mesopotamia</a>&nbsp;in around 3500 to 3000 BCE.&nbsp;Their contributions to&nbsp;<a title="Mathematics" href="https://en.wikipedia.org/wiki/Mathematics">mathematics</a>,&nbsp;<a title="Astronomy" href="https://en.wikipedia.org/wiki/Astronomy">astronomy</a>, and&nbsp;<a title="Medicine" href="https://en.wikipedia.org/wiki/Medicine">medicine</a>&nbsp;entered and shaped Greek&nbsp;<a title="Natural philosophy" href="https://en.wikipedia.org/wiki/Natural_philosophy">natural philosophy</a>&nbsp;of&nbsp;<a title="Classical antiquity" href="https://en.wikipedia.org/wiki/Classical_antiquity">classical antiquity</a>, whereby formal attempts were made to provide explanations of events in the&nbsp;<a title="Universe" href="https://en.wikipedia.org/wiki/Universe">physical world</a>&nbsp;based on natural causes.&nbsp;After the&nbsp;<a title="Fall of the Western Roman Empire" href="https://en.wikipedia.org/wiki/Fall_of_the_Western_Roman_Empire">fall of the Western Roman Empire</a>, knowledge of&nbsp;<a title="History of science in classical antiquity" href="https://en.wikipedia.org/wiki/History_of_science_in_classical_antiquity">Greek conceptions of the world</a>&nbsp;deteriorated in&nbsp;<a title="Western Europe" href="https://en.wikipedia.org/wiki/Western_Europe">Western Europe</a>&nbsp;during the early centuries (400 to 1000 CE) of the&nbsp;<a title="Middle Ages" href="https://en.wikipedia.org/wiki/Middle_Ages">Middle Ages</a>&nbsp;but was preserved in the&nbsp;<a title="Muslim world" href="https://en.wikipedia.org/wiki/Muslim_world">Muslim world</a>&nbsp;during the&nbsp;<a title="Islamic Golden Age" href="https://en.wikipedia.org/wiki/Islamic_Golden_Age">Islamic Golden Age</a>.&nbsp;The recovery and assimilation of&nbsp;<a title="Ancient Greek literature" href="https://en.wikipedia.org/wiki/Ancient_Greek_literature">Greek works</a>&nbsp;and&nbsp;<a title="Science in the medieval Islamic world" href="https://en.wikipedia.org/wiki/Science_in_the_medieval_Islamic_world">Islamic inquiries</a>&nbsp;into Western Europe from the 10th to 13th century revived "<a title="Natural philosophy" href="https://en.wikipedia.org/wiki/Natural_philosophy">natural philosophy</a>",&nbsp;which was later transformed by the&nbsp;<a title="Scientific Revolution" href="https://en.wikipedia.org/wiki/Scientific_Revolution">Scientific Revolution</a>&nbsp;that began in the 16th century as&nbsp;<a title="Scientific Revolution" href="https://en.wikipedia.org/wiki/Scientific_Revolution#New_ideas">new ideas and discoveries</a>&nbsp;departed from&nbsp;<a title="Scientific Revolution" href="https://en.wikipedia.org/wiki/Scientific_Revolution#Ancient_and_medieval_background">previous Greek conceptions</a>&nbsp;and traditions. The&nbsp;<a title="Scientific method" href="https://en.wikipedia.org/wiki/Scientific_method">scientific method</a>&nbsp;soon played a greater role in knowledge creation and it was not until the&nbsp;<a title="19th century in science" href="https://en.wikipedia.org/wiki/19th_century_in_science">19th century</a>&nbsp;that many of the institutional and&nbsp;<a title="Scientist" href="https://en.wikipedia.org/wiki/Scientist">professional</a>&nbsp;features of science began to take shape;&nbsp;along with the changing of "natural philosophy" to "natural science."</p>
 <p><a class="mw-redirect" title="Modern science" href="https://en.wikipedia.org/wiki/Modern_science">Modern science</a>&nbsp;is typically divided into three major&nbsp;<a title="Branches of science" href="https://en.wikipedia.org/wiki/Branches_of_science">branches</a>&nbsp;that consist of the&nbsp;<a title="Natural science" href="https://en.wikipedia.org/wiki/Natural_science">natural sciences</a>&nbsp;(e.g.,&nbsp;<a title="Biology" href="https://en.wikipedia.org/wiki/Biology">biology</a>,&nbsp;<a title="Chemistry" href="https://en.wikipedia.org/wiki/Chemistry">chemistry</a>, and&nbsp;<a title="Physics" href="https://en.wikipedia.org/wiki/Physics">physics</a>), which study nature in the broadest sense; the&nbsp;<a title="Social science" href="https://en.wikipedia.org/wiki/Social_science">social sciences</a>&nbsp;(e.g.,&nbsp;<a title="Economics" href="https://en.wikipedia.org/wiki/Economics">economics</a>,&nbsp;<a title="Psychology" href="https://en.wikipedia.org/wiki/Psychology">psychology</a>, and&nbsp;<a title="Sociology" href="https://en.wikipedia.org/wiki/Sociology">sociology</a>), which study individuals and societies; and the&nbsp;<a title="Formal science" href="https://en.wikipedia.org/wiki/Formal_science">formal sciences</a>&nbsp;(e.g.,&nbsp;<a title="Logic" href="https://en.wikipedia.org/wiki/Logic">logic</a>,&nbsp;<a title="Mathematics" href="https://en.wikipedia.org/wiki/Mathematics">mathematics</a>, and&nbsp;<a title="Theoretical computer science" href="https://en.wikipedia.org/wiki/Theoretical_computer_science">theoretical computer science</a>), which study abstract concepts. There is disagreement, however, on whether the formal sciences actually constitute a science as they do not rely on&nbsp;<a title="Empirical evidence" href="https://en.wikipedia.org/wiki/Empirical_evidence">empirical evidence</a>.&nbsp;Disciplines that use existing scientific knowledge for practical purposes, such as&nbsp;<a title="Engineering" href="https://en.wikipedia.org/wiki/Engineering">engineering</a>&nbsp;and medicine, are described as&nbsp;<a title="Applied science" href="https://en.wikipedia.org/wiki/Applied_science">applied sciences</a>.<sup id="cite_ref-26" class="reference"></sup></p>
